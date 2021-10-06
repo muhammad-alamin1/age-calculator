@@ -1,0 +1,6 @@
+*.o
+*.exe
+/bin
+/obj
+/Age Calculator App.cbp
+/Age Calculator App.layout
